@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/yusukebe/revealgo"
+	"github.com/mikeknox/revealgo"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/yusukebe/revealgo
+module github.com/mikeknox/revealgo
 
 go 1.16
 
@@ -8,4 +8,4 @@ require (
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
 )
 
-replace github.com/yusukebe/revealgo v1.2.2 => github.com/mikeknox/revealgo v0.0.0-20240204044340-a6a35361ac14
+replace github.com/mikeknox/revealgo v1.2.2 => github.com/mikeknox/revealgo v0.0.0-20240204044340-a6a35361ac14
